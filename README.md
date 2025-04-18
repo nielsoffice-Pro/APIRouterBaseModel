@@ -1,2 +1,2 @@
-# APIRouterBaseModel
-API Router Base Model 
+# APIRouterBaseModel Laravel
+API Router Base Model Laravel
